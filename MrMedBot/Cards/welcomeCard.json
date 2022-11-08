@@ -1,0 +1,57 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+        {
+            "type": "Image",
+            "url": "https://freesvg.org/img/publicdomainq-medicine-doctor-man-advise.png",
+            "size": "stretch"
+        },
+        {
+            "type": "TextBlock",
+            "spacing": "medium",
+            "size": "medium",
+            "weight": "bolder",
+            "text": "Hi, I am MR Med...!",
+            "wrap": true,
+            "maxLines": 0
+        },
+      /*  {
+            "type": "TextBlock",
+            "size": "default",
+            "isSubtle": true,
+            "text": "Hello Its Me MR Med Bot I am here to help you out !!!!!!.",
+            "wrap": true,
+            "maxLines": 0
+        },*/
+        {
+            "type": "TextBlock",
+            "spacing": "medium",
+            "size": "extraLarge",
+            "weight": "bolder",
+            "text": "How May I help you?",
+            "wrap": true,
+            "maxLines": 0
+        }
+    ],
+           
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "Book an Appointment",
+            "url": "https://localhost:44348/Appointment/Appointment"
+        },
+        {
+            "type": "Action.OpenUrl",
+            "title": "Track your appointtment status",
+            "url": "https://localhost:44348/tracking.aspx"
+        },
+
+        {
+            "type": "Action.OpenUrl",
+            "title": "About us",
+            "url": "https://www.mayoclinic.org/"
+        }
+    ]
+}

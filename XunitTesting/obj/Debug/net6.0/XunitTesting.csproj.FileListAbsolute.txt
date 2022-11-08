@@ -1,0 +1,5 @@
+C:\Users\IN10009097\Desktop\ADO.NET\MrMedBot\XunitTesting\obj\Debug\net6.0\XunitTesting.csproj.AssemblyReference.cache
+C:\Users\IN10009097\Desktop\ADO.NET\MrMedBot\XunitTesting\obj\Debug\net6.0\XunitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IN10009097\Desktop\ADO.NET\MrMedBot\XunitTesting\obj\Debug\net6.0\XunitTesting.AssemblyInfoInputs.cache
+C:\Users\IN10009097\Desktop\ADO.NET\MrMedBot\XunitTesting\obj\Debug\net6.0\XunitTesting.AssemblyInfo.cs
+C:\Users\IN10009097\Desktop\ADO.NET\MrMedBot\XunitTesting\obj\Debug\net6.0\XunitTesting.csproj.CoreCompileInputs.cache

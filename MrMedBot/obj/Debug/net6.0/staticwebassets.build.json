@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6xkgbMkJRJxJXy1S827RHGAOoFt6y0z/eV5354lgzhY=",
+  "Source": "MrMedBot",
+  "BasePath": "_content/MrMedBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MrMedBot\\wwwroot",
+      "Source": "MrMedBot",
+      "ContentRoot": "C:\\Users\\IN10009097\\Desktop\\ADO.NET\\MrMedBot\\MrMedBot\\wwwroot\\",
+      "BasePath": "_content/MrMedBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\IN10009097\\Desktop\\ADO.NET\\MrMedBot\\MrMedBot\\wwwroot\\default.htm",
+      "SourceId": "MrMedBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\IN10009097\\Desktop\\ADO.NET\\MrMedBot\\MrMedBot\\wwwroot\\",
+      "BasePath": "_content/MrMedBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
